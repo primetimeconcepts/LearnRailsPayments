@@ -14,6 +14,9 @@ gem 'pg', group: :production
 gem 'rails_12factor',group: :production
 # Use Puma as the app server
 
+# Add twitter bootstrap
+gem 'bootstrap-sass'
+
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
